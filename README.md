@@ -1,6 +1,5 @@
 # ChallengeAlura
 =======
-# ChallengeAlura
 
 Projeto integrador da alura com a Oracle
 
